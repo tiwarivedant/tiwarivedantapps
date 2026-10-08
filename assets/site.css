@@ -48,6 +48,32 @@
   }
 }
 
+.app-myhome {
+  --accent: #4f46e5;
+  --accent-text: #4338ca;
+  --accent-gradient: linear-gradient(135deg, #4f46e5 0%, #3b82f6 50%, #10b981 100%);
+}
+
+@media (prefers-color-scheme: dark) {
+  .app-myhome {
+    --accent: #818cf8;
+    --accent-text: #a5b4fc;
+  }
+}
+
+.app-myworth {
+  --accent: #2a78d6;
+  --accent-text: #1c4fa8;
+  --accent-gradient: linear-gradient(135deg, #1c4fa8 0%, #2a78d6 50%, #3a8de8 100%);
+}
+
+@media (prefers-color-scheme: dark) {
+  .app-myworth {
+    --accent: #3987e5;
+    --accent-text: #8ab8f2;
+  }
+}
+
 /* ---- Base ---- */
 
 *,

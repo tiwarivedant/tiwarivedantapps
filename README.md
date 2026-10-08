@@ -7,6 +7,7 @@ Support and privacy pages for Vedant Tiwari's iPhone apps, served by GitHub Page
 | -------- | ---------------------------------------------------------- | ------------------------------------------------------------------ |
 | myWallet | https://tiwarivedant.github.io/tiwarivedantapps/mywallet/ | https://tiwarivedant.github.io/tiwarivedantapps/mywallet/privacy/ |
 | myHome   | https://tiwarivedant.github.io/tiwarivedantapps/myhome/   | https://tiwarivedant.github.io/tiwarivedantapps/myhome/privacy/   |
+| myWorth  | https://tiwarivedant.github.io/tiwarivedantapps/myworth/  | https://tiwarivedant.github.io/tiwarivedantapps/myworth/privacy/  |
 
 ## How the site works
 

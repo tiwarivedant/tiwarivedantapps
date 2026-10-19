@@ -9,6 +9,12 @@ Support and privacy pages for Vedant Tiwari's iPhone apps, served by GitHub Page
 | myHome   | https://tiwarivedant.github.io/tiwarivedantapps/myhome/   | https://tiwarivedant.github.io/tiwarivedantapps/myhome/privacy/   |
 | myWorth  | https://tiwarivedant.github.io/tiwarivedantapps/myworth/  | https://tiwarivedant.github.io/tiwarivedantapps/myworth/privacy/  |
 
+App Store listings:
+
+- myWallet - Budget & Spending: https://apps.apple.com/us/app/mywallet-budget-spending/id6819918162
+- myWorth - Wealth Tracker: https://apps.apple.com/us/app/myworth-wealth-tracker/id6820314896
+- myHome - Maintenance Tracker: https://apps.apple.com/us/app/myhome-maintenance-tracker/id6820315204
+
 ## How the site works
 
 - Plain hand-written HTML plus one shared stylesheet, `assets/site.css`. No build step, no framework, no JavaScript.

@@ -277,12 +277,42 @@ main {
   font-size: 1.15rem;
 }
 
+.app-card .subtitle {
+  margin: 0 0 0.35rem;
+  color: var(--muted);
+  font-size: 0.95rem;
+}
+
 .app-card .links {
   display: flex;
   flex-wrap: wrap;
   gap: 4px 16px;
   margin: 0;
   font-size: 0.95rem;
+}
+
+/* ---- App Store button ---- */
+
+.store-button {
+  display: inline-block;
+  padding: 10px 18px;
+  border-radius: 10px;
+  background: var(--accent-text);
+  color: #fff;
+  font-weight: 600;
+  text-decoration: none;
+}
+
+.store-button:hover {
+  text-decoration: none;
+  filter: brightness(1.1);
+}
+
+@media (prefers-color-scheme: dark) {
+  .store-button {
+    background: var(--accent);
+    color: #111113;
+  }
 }
 
 /* ---- Footer ---- */
